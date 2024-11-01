@@ -21,3 +21,16 @@
 <p align="center">The performances of MiLMo on text classification</p>
 <p align="center"> <img src="https://github.com/user-attachments/assets/0f6c4a64-6390-4ab9-bdd7-b36b7fbe0162" width="800" /></p>
 
+# Download
+[Paper](https://github.com/)  
+[MiLMo](https://github.com/)  
+[Word2vec](https://github.com/)  
+[Data Set](https://github.com/)  
+
+# Cite
+#### Deng J, Shi H, Yu X, et al. Milmo: minority multilingual pre-trained language model[C]//2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2023: 329-334.
+
+### EI indexing website for [papers](https://ieeexplore.ieee.org/document/10393961) 
+
+# Contact us
+### Email: TibetanQA_Office@163.com
